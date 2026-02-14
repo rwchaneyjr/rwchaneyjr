@@ -10,60 +10,8 @@ Keys to use to move W A S D to rotate E Q R T Z to choose 1 2 3 MOUSE L+R color 
 Keys to use W A S D Arrow Keys, space, z, p, o, i, u, x, c, and v keys
 
 
-[https://foundational-math.itch.io/ratsonaplank
 
-https://foundational-math.itch.io/mosquito-swatter
-
-https://foundational-math.itch.io/pixie-lapislazuli-dancing
-
-https://foundational-math.itch.io/spear-throw-for-pc-knock-over-all-blocks
-
-https://foundational-math.itch.io/orca-overboard
-
-https://foundational-math.itch.io/sub-surfers
-
-https://foundational-math.itch.io/license-master
-
-https://foundational-math.itch.io/pumpkinheaded-runner-and-zapper
-
-https://foundational-math.itch.io/moose-orc-runner
-
-https://foundational-math.itch.io/missle-launcher
-
-https://foundational-math.itch.io/the-crew
-
-https://foundational-math.itch.io/pixie-lapislazuli-dancing
-
-https://foundational-math.itch.io/spider-man-grapple-swing-using-cubes
-
-https://foundational-math.itch.io/mideval-builder
-
-https:/s/foundationalst-math.itch.io/times-table-and-math-flash-cards
-
-https://foundational-math.itch.io/cannon-number-shooter
-
-https://foundational-math.itch.io/basic-math-visualized
-
-https://foundational-math.itch.io/mathfun
-
-https://foundational-math.itch.io/pc-lingo
-
-https://foundational-math.itch.io/vocabulary-english
-
-https://learnloop-studio.itch.io/helicopter-similation
-
-https://foundational-math.itch.io/situationalenglishspanish
-
-https://foundational-math.itch.io/pc-lingo
-
-https://foundational-math.itch.io/hvac
-
-https://foundational-math.itch.io/the-pumpkin-man
-
-https://foundational-math.itch.io/mouse-eat-berries
-
-https://foundational-math.itch.io/redfish
-](https://learnloop-studio.itch.io/
+https://learnloop-studio.itch.io/
 
 https://learnloop-studio.itch.io/math-longdivision-learner
 
